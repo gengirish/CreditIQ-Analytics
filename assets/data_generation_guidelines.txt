@@ -1,0 +1,53 @@
+
+# Sample Data Generation Guidelines for CreditIQ Analytics
+
+## Overview
+This document provides guidelines for generating synthetic data to validate the CreditIQ Analytics platform for NBFC credit risk assessment.
+
+## Data Sources and Types
+
+### 1. Traditional Financial Data
+- **Borrower Demographics**: Age, income, employment type, education, city tier
+- **Credit History**: Existing loans, credit history length, traditional credit scores
+- **Loan Details**: Amount, tenure, purpose, interest rates
+
+### 2. Alternative Data Sources
+- **UPI Transaction Data**: Monthly transaction frequency and patterns
+- **Utility Payment Data**: Consistency in bill payments (electricity, mobile, internet)
+- **GST Returns**: Filing frequency and compliance for business borrowers
+- **Digital Wallet Usage**: Average balance and transaction frequency
+- **E-commerce Behavior**: Online purchase patterns and frequency
+- **Location Data**: Stability score based on location consistency
+- **Mobile App Usage**: Time spent on financial apps
+
+## ChatGPT Prompts for Data Generation
+
+### Prompt 1: Borrower Profile Generation
+"Generate 100 realistic borrower profiles for an Indian NBFC with the following fields:
+- Age (18-65), Income (15K-20L INR), Employment type (Salaried/Self-employed/Business), 
+- City tier (1/2/3), Education level, Existing loan count, Credit history months.
+Make the data representative of India's demographic distribution."
+
+### Prompt 2: Alternative Data Generation  
+"Create alternative credit data for Indian borrowers including:
+- Monthly UPI transactions (0-100), Utility bill payment consistency (0-1 score),
+- GST returns filed (0-12 per year), Mobile recharge frequency, E-commerce transactions,
+- Digital wallet average balance, Location stability score (0-1).
+Ensure realistic correlations between variables."
+
+### Prompt 3: Loan Default Scenarios
+"Generate loan default scenarios considering:
+- Higher default risk for: Lower income, irregular alt-data patterns, new credit users
+- Lower default risk for: Consistent bill payments, stable location, regular UPI usage
+- Include seasonal and economic factors affecting default rates"
+
+## Validation Metrics
+- Default rate should be between 3-15% (typical for Indian NBFCs)
+- Strong correlation between alternative data consistency and lower default risk
+- Income and employment stability should be primary risk factors
+
+## Data Quality Checks
+1. No missing values in critical fields
+2. Realistic value ranges for all variables
+3. Logical correlations between related variables
+4. Balanced representation across demographic segments

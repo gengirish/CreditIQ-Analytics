@@ -1,0 +1,1001 @@
+borrower_id,age,income,employment_type,city_tier,education,existing_loans,credit_history_months,bank_account_age_months
+BRW000001,39,111244,Self-Employed,Tier 2,Undergraduate,0,64,50
+BRW000002,33,76092,Salaried,Tier 2,Undergraduate,0,0,8
+BRW000003,41,38089,Salaried,Tier 3,Diploma,0,33,17
+BRW000004,50,21643,Salaried,Tier 1,Graduate,2,56,72
+BRW000005,32,63486,Business Owner,Tier 2,Graduate,2,3,46
+BRW000006,32,49751,Freelancer,Tier 2,Undergraduate,1,2,18
+BRW000007,50,74321,Salaried,Tier 1,Post-Graduate,1,13,8
+BRW000008,42,60363,Freelancer,Tier 2,Post-Graduate,1,65,15
+BRW000009,30,84089,Self-Employed,Tier 1,Undergraduate,0,18,12
+BRW000010,40,23666,Salaried,Tier 2,Undergraduate,1,17,6
+BRW000011,30,104184,Salaried,Tier 1,Diploma,5,3,48
+BRW000012,30,42534,Self-Employed,Tier 2,Diploma,3,0,10
+BRW000013,37,191034,Business Owner,Tier 2,Undergraduate,3,39,21
+BRW000014,18,20923,Business Owner,Tier 3,Graduate,0,2,17
+BRW000015,18,145622,Salaried,Tier 1,Undergraduate,1,24,144
+BRW000016,29,42545,Salaried,Tier 2,Graduate,2,59,17
+BRW000017,24,21565,Self-Employed,Tier 2,Graduate,1,5,3
+BRW000018,38,24658,Salaried,Tier 3,Undergraduate,2,26,3
+BRW000019,25,28105,Salaried,Tier 2,Graduate,1,1,32
+BRW000020,20,50987,Salaried,Tier 2,Graduate,2,22,32
+BRW000021,49,55175,Business Owner,Tier 3,Graduate,1,4,19
+BRW000022,32,22949,Freelancer,Tier 3,Undergraduate,2,31,20
+BRW000023,35,35614,Self-Employed,Tier 2,Post-Graduate,1,8,3
+BRW000024,20,201554,Freelancer,Tier 2,Undergraduate,1,14,26
+BRW000025,29,144644,Salaried,Tier 3,Graduate,3,21,25
+BRW000026,36,51485,Self-Employed,Tier 3,Undergraduate,1,4,5
+BRW000027,23,37436,Salaried,Tier 3,Undergraduate,2,32,3
+BRW000028,38,39975,Self-Employed,Tier 2,Graduate,3,8,4
+BRW000029,28,59326,Freelancer,Tier 1,Post-Graduate,1,26,3
+BRW000030,32,16022,Self-Employed,Tier 2,Graduate,0,4,33
+BRW000031,28,29557,Salaried,Tier 3,Diploma,3,27,7
+BRW000032,53,15000,Self-Employed,Tier 2,Post-Graduate,2,3,10
+BRW000033,34,49980,Salaried,Tier 2,Diploma,1,13,6
+BRW000034,24,60946,Business Owner,Tier 3,Graduate,2,6,113
+BRW000035,43,24672,Self-Employed,Tier 2,Undergraduate,0,33,69
+BRW000036,22,127923,Self-Employed,Tier 3,Undergraduate,0,7,9
+BRW000037,37,15000,Self-Employed,Tier 2,Undergraduate,0,51,14
+BRW000038,18,15000,Self-Employed,Tier 2,Diploma,2,53,8
+BRW000039,21,43458,Salaried,Tier 2,Graduate,0,5,24
+BRW000040,36,83924,Self-Employed,Tier 3,Graduate,2,22,3
+BRW000041,42,139684,Salaried,Tier 1,Undergraduate,1,2,40
+BRW000042,36,25157,Business Owner,Tier 1,Undergraduate,0,11,26
+BRW000043,33,86072,Business Owner,Tier 3,Post-Graduate,0,29,82
+BRW000044,31,35213,Business Owner,Tier 1,Graduate,2,25,6
+BRW000045,20,31631,Self-Employed,Tier 2,Post-Graduate,2,23,58
+BRW000046,27,73638,Self-Employed,Tier 2,Graduate,1,7,56
+BRW000047,30,61197,Salaried,Tier 2,Post-Graduate,0,11,4
+BRW000048,45,15000,Business Owner,Tier 2,Post-Graduate,4,2,18
+BRW000049,38,118329,Salaried,Tier 1,Undergraduate,0,30,6
+BRW000050,18,109543,Self-Employed,Tier 2,Graduate,2,16,10
+BRW000051,38,22016,Salaried,Tier 2,Post-Graduate,3,29,10
+BRW000052,31,49843,Salaried,Tier 2,Graduate,2,6,29
+BRW000053,28,53918,Self-Employed,Tier 1,Graduate,1,9,19
+BRW000054,41,44736,Salaried,Tier 2,Undergraduate,1,9,106
+BRW000055,45,23382,Business Owner,Tier 1,Diploma,1,0,4
+BRW000056,44,21220,Salaried,Tier 1,Graduate,1,10,130
+BRW000057,26,35580,Salaried,Tier 1,Undergraduate,0,39,9
+BRW000058,31,92798,Self-Employed,Tier 1,Undergraduate,2,54,53
+BRW000059,38,56099,Salaried,Tier 3,Undergraduate,0,17,14
+BRW000060,44,26997,Salaried,Tier 1,Graduate,3,14,5
+BRW000061,30,67329,Business Owner,Tier 3,Diploma,1,0,70
+BRW000062,33,15000,Salaried,Tier 3,Graduate,0,50,13
+BRW000063,23,91036,Business Owner,Tier 2,Graduate,3,0,38
+BRW000064,23,15000,Salaried,Tier 1,Graduate,1,69,30
+BRW000065,43,27174,Salaried,Tier 2,Post-Graduate,1,16,22
+BRW000066,48,15000,Business Owner,Tier 3,Graduate,0,10,24
+BRW000067,34,15000,Salaried,Tier 2,Graduate,1,61,47
+BRW000068,45,91918,Salaried,Tier 1,Graduate,0,0,3
+BRW000069,38,24980,Salaried,Tier 2,Undergraduate,1,20,39
+BRW000070,28,47915,Salaried,Tier 3,Undergraduate,1,19,81
+BRW000071,38,34977,Business Owner,Tier 3,Graduate,2,5,3
+BRW000072,50,53190,Salaried,Tier 1,Undergraduate,3,13,5
+BRW000073,34,38617,Business Owner,Tier 2,Undergraduate,1,25,45
+BRW000074,50,15000,Business Owner,Tier 1,Undergraduate,1,31,20
+BRW000075,18,80580,Self-Employed,Tier 1,Graduate,0,0,18
+BRW000076,43,24464,Freelancer,Tier 3,Undergraduate,0,66,5
+BRW000077,35,15000,Salaried,Tier 1,Diploma,2,4,25
+BRW000078,32,25783,Freelancer,Tier 1,Undergraduate,0,6,4
+BRW000079,35,120645,Salaried,Tier 1,Graduate,1,7,23
+BRW000080,18,71695,Self-Employed,Tier 3,Post-Graduate,0,0,51
+BRW000081,32,27476,Self-Employed,Tier 3,Post-Graduate,0,3,10
+BRW000082,38,27462,Salaried,Tier 2,Post-Graduate,2,103,23
+BRW000083,49,28076,Self-Employed,Tier 3,Graduate,2,9,173
+BRW000084,29,191261,Business Owner,Tier 1,Graduate,2,2,41
+BRW000085,26,49293,Salaried,Tier 2,Undergraduate,0,2,66
+BRW000086,29,51227,Salaried,Tier 2,Undergraduate,2,30,19
+BRW000087,44,82803,Business Owner,Tier 1,Graduate,2,46,52
+BRW000088,38,43959,Self-Employed,Tier 2,Diploma,5,7,3
+BRW000089,29,29518,Freelancer,Tier 3,Graduate,1,0,4
+BRW000090,40,31036,Business Owner,Tier 1,Undergraduate,2,6,8
+BRW000091,35,34293,Freelancer,Tier 1,Undergraduate,1,1,18
+BRW000092,44,35250,Business Owner,Tier 1,Undergraduate,1,2,67
+BRW000093,27,64997,Salaried,Tier 1,Diploma,3,13,15
+BRW000094,31,37856,Salaried,Tier 3,Graduate,2,6,38
+BRW000095,31,65258,Business Owner,Tier 2,Undergraduate,0,17,44
+BRW000096,20,34044,Self-Employed,Tier 2,Graduate,0,7,31
+BRW000097,37,38673,Salaried,Tier 3,Undergraduate,3,67,15
+BRW000098,37,15000,Salaried,Tier 1,Undergraduate,1,56,30
+BRW000099,35,75588,Freelancer,Tier 2,Undergraduate,1,20,15
+BRW000100,32,47915,Self-Employed,Tier 2,Graduate,0,10,3
+BRW000101,20,80693,Self-Employed,Tier 2,Undergraduate,1,11,177
+BRW000102,30,15000,Self-Employed,Tier 3,Graduate,1,12,4
+BRW000103,31,193049,Salaried,Tier 3,Graduate,1,31,3
+BRW000104,26,32478,Salaried,Tier 2,Undergraduate,0,14,75
+BRW000105,33,88128,Salaried,Tier 3,Post-Graduate,1,46,12
+BRW000106,39,15804,Salaried,Tier 1,Undergraduate,2,69,37
+BRW000107,53,59291,Business Owner,Tier 1,Graduate,0,9,14
+BRW000108,36,15635,Self-Employed,Tier 1,Graduate,3,19,17
+BRW000109,37,22048,Business Owner,Tier 2,Undergraduate,1,2,10
+BRW000110,34,167916,Business Owner,Tier 2,Post-Graduate,2,5,15
+BRW000111,18,31177,Salaried,Tier 2,Graduate,0,12,19
+BRW000112,34,43215,Self-Employed,Tier 3,Undergraduate,0,5,45
+BRW000113,35,72842,Self-Employed,Tier 2,Post-Graduate,0,50,25
+BRW000114,59,53989,Business Owner,Tier 2,Post-Graduate,2,4,103
+BRW000115,33,40959,Salaried,Tier 1,Post-Graduate,2,14,3
+BRW000116,38,48628,Self-Employed,Tier 1,Undergraduate,1,22,25
+BRW000117,34,248384,Self-Employed,Tier 2,Undergraduate,2,28,31
+BRW000118,23,34679,Salaried,Tier 2,Undergraduate,0,11,91
+BRW000119,46,42654,Salaried,Tier 3,Graduate,0,48,3
+BRW000120,42,84164,Self-Employed,Tier 1,Undergraduate,0,20,30
+BRW000121,42,87940,Business Owner,Tier 1,Undergraduate,2,13,69
+BRW000122,25,93866,Salaried,Tier 2,Undergraduate,2,1,9
+BRW000123,49,60535,Self-Employed,Tier 1,Graduate,1,14,75
+BRW000124,20,15000,Salaried,Tier 1,Undergraduate,1,41,3
+BRW000125,40,134154,Business Owner,Tier 3,Undergraduate,0,22,47
+BRW000126,56,15000,Salaried,Tier 1,Graduate,1,42,97
+BRW000127,25,46263,Business Owner,Tier 2,Post-Graduate,3,16,38
+BRW000128,29,19862,Salaried,Tier 1,Undergraduate,3,3,20
+BRW000129,35,34499,Salaried,Tier 1,Graduate,2,0,3
+BRW000130,29,47240,Salaried,Tier 2,Diploma,0,8,90
+BRW000131,19,46961,Salaried,Tier 3,Undergraduate,0,28,22
+BRW000132,35,50895,Self-Employed,Tier 2,Post-Graduate,0,37,3
+BRW000133,24,132054,Salaried,Tier 3,Graduate,1,8,42
+BRW000134,39,52199,Business Owner,Tier 1,Graduate,0,16,23
+BRW000135,25,29871,Salaried,Tier 3,Diploma,1,13,4
+BRW000136,50,78532,Salaried,Tier 1,Graduate,1,12,8
+BRW000137,27,94049,Salaried,Tier 2,Undergraduate,3,6,3
+BRW000138,31,15000,Salaried,Tier 2,Graduate,1,3,30
+BRW000139,43,58566,Salaried,Tier 3,Graduate,0,5,35
+BRW000140,22,63636,Self-Employed,Tier 2,Graduate,0,1,25
+BRW000141,37,28622,Self-Employed,Tier 1,Post-Graduate,1,5,61
+BRW000142,48,109159,Self-Employed,Tier 1,Diploma,1,0,71
+BRW000143,18,32207,Self-Employed,Tier 3,Graduate,2,23,34
+BRW000144,36,40153,Self-Employed,Tier 2,Graduate,1,9,3
+BRW000145,37,31619,Salaried,Tier 3,Graduate,2,86,42
+BRW000146,42,36770,Self-Employed,Tier 1,Post-Graduate,0,5,19
+BRW000147,22,15108,Freelancer,Tier 2,Post-Graduate,2,10,30
+BRW000148,21,15000,Self-Employed,Tier 1,Undergraduate,0,10,37
+BRW000149,40,130040,Self-Employed,Tier 3,Post-Graduate,2,0,15
+BRW000150,37,18442,Salaried,Tier 2,Post-Graduate,1,43,89
+BRW000151,37,16430,Business Owner,Tier 3,Graduate,1,0,5
+BRW000152,38,15000,Business Owner,Tier 1,Diploma,2,67,40
+BRW000153,28,21781,Self-Employed,Tier 2,Graduate,3,53,3
+BRW000154,37,15000,Freelancer,Tier 2,Graduate,2,18,93
+BRW000155,37,135078,Salaried,Tier 2,Undergraduate,0,18,4
+BRW000156,27,81458,Salaried,Tier 3,Post-Graduate,1,25,3
+BRW000157,53,20941,Business Owner,Tier 3,Post-Graduate,2,11,14
+BRW000158,39,220124,Business Owner,Tier 3,Post-Graduate,2,25,16
+BRW000159,23,79651,Salaried,Tier 3,Undergraduate,0,1,8
+BRW000160,41,28004,Salaried,Tier 1,Graduate,1,1,31
+BRW000161,25,15000,Salaried,Tier 1,Undergraduate,1,14,21
+BRW000162,42,227011,Salaried,Tier 3,Post-Graduate,1,19,3
+BRW000163,46,15000,Business Owner,Tier 1,Post-Graduate,0,52,13
+BRW000164,26,15000,Self-Employed,Tier 3,Post-Graduate,2,2,59
+BRW000165,44,82294,Salaried,Tier 3,Graduate,1,41,42
+BRW000166,39,255710,Salaried,Tier 2,Undergraduate,0,5,46
+BRW000167,43,109910,Salaried,Tier 3,Post-Graduate,2,12,43
+BRW000168,53,57018,Salaried,Tier 2,Graduate,1,9,13
+BRW000169,32,58442,Self-Employed,Tier 2,Post-Graduate,1,12,3
+BRW000170,27,71878,Freelancer,Tier 1,Diploma,1,3,11
+BRW000171,26,66645,Business Owner,Tier 2,Post-Graduate,3,16,64
+BRW000172,26,45476,Salaried,Tier 1,Diploma,1,38,141
+BRW000173,34,39472,Business Owner,Tier 2,Graduate,1,13,24
+BRW000174,38,34541,Business Owner,Tier 3,Graduate,2,16,3
+BRW000175,37,19867,Business Owner,Tier 3,Graduate,1,45,5
+BRW000176,43,29011,Self-Employed,Tier 1,Post-Graduate,0,29,13
+BRW000177,35,15000,Salaried,Tier 2,Graduate,0,16,31
+BRW000178,49,33567,Salaried,Tier 3,Graduate,1,7,3
+BRW000179,32,16467,Salaried,Tier 1,Diploma,0,51,103
+BRW000180,62,15019,Salaried,Tier 1,Undergraduate,2,20,16
+BRW000181,41,41936,Salaried,Tier 1,Undergraduate,1,5,87
+BRW000182,26,110591,Self-Employed,Tier 2,Graduate,2,7,54
+BRW000183,24,75709,Business Owner,Tier 1,Graduate,0,39,50
+BRW000184,39,15000,Self-Employed,Tier 3,Graduate,2,1,33
+BRW000185,32,16453,Salaried,Tier 2,Undergraduate,1,116,35
+BRW000186,42,77081,Freelancer,Tier 2,Diploma,1,3,36
+BRW000187,39,16547,Freelancer,Tier 1,Post-Graduate,3,38,35
+BRW000188,34,30342,Business Owner,Tier 2,Graduate,4,12,29
+BRW000189,26,56389,Freelancer,Tier 2,Post-Graduate,3,16,154
+BRW000190,19,16736,Self-Employed,Tier 3,Graduate,2,51,47
+BRW000191,30,39509,Freelancer,Tier 3,Graduate,1,12,54
+BRW000192,43,15000,Salaried,Tier 2,Post-Graduate,0,18,74
+BRW000193,37,22446,Salaried,Tier 3,Undergraduate,2,1,8
+BRW000194,22,46902,Salaried,Tier 3,Graduate,0,0,3
+BRW000195,36,15000,Salaried,Tier 3,Graduate,1,6,23
+BRW000196,38,51656,Salaried,Tier 1,Diploma,0,27,25
+BRW000197,26,35749,Self-Employed,Tier 1,Graduate,0,3,63
+BRW000198,36,56499,Business Owner,Tier 1,Graduate,3,2,21
+BRW000199,35,43439,Self-Employed,Tier 2,Graduate,0,12,30
+BRW000200,23,108154,Salaried,Tier 2,Graduate,1,25,26
+BRW000201,38,40142,Business Owner,Tier 2,Graduate,1,29,3
+BRW000202,40,25757,Self-Employed,Tier 3,Undergraduate,2,4,34
+BRW000203,45,40048,Salaried,Tier 3,Graduate,1,1,63
+BRW000204,45,56085,Self-Employed,Tier 3,Post-Graduate,1,67,6
+BRW000205,21,37763,Salaried,Tier 2,Undergraduate,2,7,32
+BRW000206,25,37514,Salaried,Tier 2,Post-Graduate,2,46,32
+BRW000207,40,20710,Freelancer,Tier 1,Undergraduate,1,47,6
+BRW000208,40,21368,Salaried,Tier 1,Undergraduate,4,35,4
+BRW000209,40,15000,Self-Employed,Tier 1,Graduate,1,4,140
+BRW000210,70,147216,Business Owner,Tier 2,Undergraduate,1,41,18
+BRW000211,40,15000,Business Owner,Tier 2,Post-Graduate,0,35,9
+BRW000212,46,20861,Salaried,Tier 3,Diploma,3,21,6
+BRW000213,44,20440,Salaried,Tier 1,Post-Graduate,0,9,39
+BRW000214,41,74305,Salaried,Tier 3,Diploma,0,7,33
+BRW000215,31,28682,Self-Employed,Tier 2,Undergraduate,1,3,37
+BRW000216,42,98537,Self-Employed,Tier 1,Graduate,1,17,3
+BRW000217,27,21188,Salaried,Tier 2,Post-Graduate,1,21,80
+BRW000218,32,45396,Freelancer,Tier 1,Diploma,1,10,17
+BRW000219,30,18614,Self-Employed,Tier 2,Undergraduate,1,15,13
+BRW000220,35,202019,Salaried,Tier 2,Graduate,2,10,22
+BRW000221,58,15000,Self-Employed,Tier 1,Undergraduate,2,24,17
+BRW000222,18,46530,Self-Employed,Tier 1,Graduate,1,55,71
+BRW000223,41,60296,Salaried,Tier 2,Graduate,2,4,95
+BRW000224,18,50566,Salaried,Tier 3,Post-Graduate,3,11,13
+BRW000225,30,31312,Business Owner,Tier 2,Graduate,2,3,71
+BRW000226,45,32733,Self-Employed,Tier 3,Undergraduate,2,23,54
+BRW000227,35,37610,Self-Employed,Tier 2,Graduate,3,31,96
+BRW000228,24,32286,Self-Employed,Tier 3,Undergraduate,1,64,10
+BRW000229,27,78519,Salaried,Tier 3,Graduate,1,7,30
+BRW000230,41,212866,Salaried,Tier 2,Graduate,2,71,11
+BRW000231,27,23248,Self-Employed,Tier 2,Graduate,0,1,62
+BRW000232,37,15000,Salaried,Tier 3,Graduate,0,22,3
+BRW000233,35,33839,Salaried,Tier 2,Graduate,1,1,29
+BRW000234,28,286005,Business Owner,Tier 2,Graduate,0,53,14
+BRW000235,56,19092,Freelancer,Tier 1,Post-Graduate,1,18,14
+BRW000236,41,134765,Business Owner,Tier 3,Graduate,0,26,37
+BRW000237,18,138990,Business Owner,Tier 3,Post-Graduate,1,42,68
+BRW000238,36,23321,Salaried,Tier 1,Graduate,1,3,33
+BRW000239,28,57250,Freelancer,Tier 2,Undergraduate,2,0,69
+BRW000240,43,133614,Salaried,Tier 2,Diploma,0,50,11
+BRW000241,27,26814,Freelancer,Tier 1,Post-Graduate,0,9,26
+BRW000242,33,30857,Freelancer,Tier 3,Graduate,2,3,21
+BRW000243,40,22803,Business Owner,Tier 1,Graduate,1,15,3
+BRW000244,43,16126,Freelancer,Tier 1,Diploma,2,21,29
+BRW000245,22,21602,Self-Employed,Tier 2,Graduate,1,0,38
+BRW000246,31,15000,Salaried,Tier 3,Graduate,1,7,32
+BRW000247,30,37319,Self-Employed,Tier 1,Graduate,1,0,47
+BRW000248,28,19614,Self-Employed,Tier 2,Graduate,2,13,30
+BRW000249,52,43784,Salaried,Tier 2,Graduate,1,54,3
+BRW000250,39,15000,Self-Employed,Tier 1,Undergraduate,0,97,4
+BRW000251,22,47320,Freelancer,Tier 1,Graduate,0,24,32
+BRW000252,44,70744,Salaried,Tier 2,Post-Graduate,1,4,11
+BRW000253,56,15000,Business Owner,Tier 1,Graduate,0,56,3
+BRW000254,45,48983,Freelancer,Tier 3,Graduate,4,17,20
+BRW000255,19,96967,Freelancer,Tier 3,Diploma,0,4,29
+BRW000256,30,15000,Freelancer,Tier 3,Graduate,3,61,14
+BRW000257,47,138421,Self-Employed,Tier 1,Undergraduate,1,33,45
+BRW000258,27,50777,Freelancer,Tier 3,Post-Graduate,0,31,37
+BRW000259,39,20660,Business Owner,Tier 2,Graduate,0,29,14
+BRW000260,42,34730,Salaried,Tier 2,Diploma,4,5,50
+BRW000261,25,56764,Self-Employed,Tier 1,Graduate,0,5,37
+BRW000262,34,38592,Business Owner,Tier 1,Undergraduate,0,27,36
+BRW000263,18,55882,Salaried,Tier 2,Graduate,1,5,29
+BRW000264,24,17386,Self-Employed,Tier 2,Undergraduate,1,13,3
+BRW000265,32,41584,Self-Employed,Tier 1,Graduate,0,36,42
+BRW000266,22,15000,Salaried,Tier 2,Post-Graduate,0,36,16
+BRW000267,51,33223,Self-Employed,Tier 1,Undergraduate,2,14,102
+BRW000268,20,17621,Business Owner,Tier 2,Diploma,2,37,61
+BRW000269,30,20162,Self-Employed,Tier 2,Diploma,0,43,31
+BRW000270,36,97623,Salaried,Tier 3,Undergraduate,2,25,10
+BRW000271,49,86946,Salaried,Tier 3,Undergraduate,1,6,8
+BRW000272,20,59119,Salaried,Tier 2,Graduate,3,7,14
+BRW000273,46,15155,Freelancer,Tier 2,Graduate,0,9,23
+BRW000274,35,28194,Salaried,Tier 2,Graduate,0,2,12
+BRW000275,25,95844,Self-Employed,Tier 3,Graduate,0,7,26
+BRW000276,39,40675,Salaried,Tier 2,Graduate,0,5,6
+BRW000277,36,232225,Salaried,Tier 1,Post-Graduate,2,14,136
+BRW000278,28,49744,Business Owner,Tier 1,Graduate,1,57,4
+BRW000279,35,42346,Business Owner,Tier 2,Undergraduate,0,2,96
+BRW000280,31,28359,Salaried,Tier 2,Graduate,0,30,88
+BRW000281,36,40410,Self-Employed,Tier 3,Graduate,1,27,26
+BRW000282,41,32145,Salaried,Tier 1,Post-Graduate,1,2,46
+BRW000283,50,63990,Self-Employed,Tier 2,Undergraduate,1,61,20
+BRW000284,22,78070,Self-Employed,Tier 3,Undergraduate,0,20,35
+BRW000285,56,19364,Salaried,Tier 3,Post-Graduate,0,10,14
+BRW000286,18,15000,Salaried,Tier 2,Graduate,1,33,12
+BRW000287,33,15000,Salaried,Tier 2,Post-Graduate,2,7,31
+BRW000288,40,54523,Freelancer,Tier 2,Graduate,1,28,24
+BRW000289,37,15022,Freelancer,Tier 3,Graduate,0,0,31
+BRW000290,28,15000,Salaried,Tier 1,Post-Graduate,1,43,12
+BRW000291,32,49556,Business Owner,Tier 3,Graduate,0,14,16
+BRW000292,30,266838,Salaried,Tier 2,Graduate,0,24,3
+BRW000293,29,36139,Salaried,Tier 2,Diploma,1,6,3
+BRW000294,43,71025,Business Owner,Tier 1,Diploma,2,27,10
+BRW000295,38,38772,Freelancer,Tier 2,Graduate,0,35,3
+BRW000296,28,33553,Freelancer,Tier 2,Graduate,0,15,3
+BRW000297,43,75755,Self-Employed,Tier 1,Graduate,4,23,60
+BRW000298,38,28789,Salaried,Tier 2,Graduate,0,14,3
+BRW000299,43,44977,Business Owner,Tier 3,Diploma,0,53,38
+BRW000300,41,46974,Salaried,Tier 2,Graduate,1,16,11
+BRW000301,26,21280,Self-Employed,Tier 3,Undergraduate,0,44,73
+BRW000302,29,80308,Salaried,Tier 1,Graduate,1,38,23
+BRW000303,42,31572,Self-Employed,Tier 2,Diploma,2,12,13
+BRW000304,41,19838,Salaried,Tier 1,Graduate,1,6,26
+BRW000305,34,55782,Salaried,Tier 2,Undergraduate,1,12,17
+BRW000306,36,17698,Freelancer,Tier 3,Graduate,0,41,29
+BRW000307,47,37143,Salaried,Tier 2,Post-Graduate,1,6,4
+BRW000308,29,36051,Self-Employed,Tier 1,Graduate,1,17,209
+BRW000309,40,86570,Salaried,Tier 2,Graduate,2,39,19
+BRW000310,32,53090,Salaried,Tier 2,Diploma,1,10,15
+BRW000311,32,35595,Salaried,Tier 2,Diploma,0,24,44
+BRW000312,45,69857,Salaried,Tier 3,Undergraduate,2,6,16
+BRW000313,43,110433,Business Owner,Tier 3,Post-Graduate,1,2,64
+BRW000314,43,56740,Salaried,Tier 2,Undergraduate,1,37,21
+BRW000315,48,36617,Freelancer,Tier 2,Graduate,2,2,45
+BRW000316,35,15000,Self-Employed,Tier 1,Graduate,2,7,4
+BRW000317,41,15489,Self-Employed,Tier 1,Graduate,0,46,67
+BRW000318,31,28447,Self-Employed,Tier 2,Post-Graduate,2,10,47
+BRW000319,38,22301,Self-Employed,Tier 2,Graduate,4,86,8
+BRW000320,33,31270,Business Owner,Tier 2,Graduate,3,93,5
+BRW000321,35,37999,Salaried,Tier 2,Post-Graduate,0,7,13
+BRW000322,40,55478,Salaried,Tier 1,Undergraduate,2,1,134
+BRW000323,26,34324,Business Owner,Tier 2,Graduate,1,29,10
+BRW000324,55,53594,Freelancer,Tier 1,Graduate,1,14,21
+BRW000325,24,38237,Business Owner,Tier 1,Graduate,1,2,3
+BRW000326,22,15000,Self-Employed,Tier 3,Graduate,3,29,18
+BRW000327,46,17129,Business Owner,Tier 1,Graduate,0,0,30
+BRW000328,42,32361,Self-Employed,Tier 2,Post-Graduate,1,49,110
+BRW000329,41,15000,Self-Employed,Tier 1,Post-Graduate,4,3,26
+BRW000330,41,58685,Salaried,Tier 3,Undergraduate,1,3,61
+BRW000331,34,123574,Self-Employed,Tier 2,Graduate,2,4,28
+BRW000332,26,96279,Salaried,Tier 1,Undergraduate,2,77,3
+BRW000333,35,30615,Salaried,Tier 2,Graduate,0,28,13
+BRW000334,28,119680,Business Owner,Tier 3,Post-Graduate,2,38,30
+BRW000335,44,40901,Salaried,Tier 3,Undergraduate,3,12,108
+BRW000336,33,27731,Salaried,Tier 1,Graduate,0,9,70
+BRW000337,26,22231,Salaried,Tier 3,Graduate,2,6,9
+BRW000338,31,28510,Freelancer,Tier 3,Undergraduate,2,15,8
+BRW000339,39,26621,Self-Employed,Tier 3,Graduate,2,19,8
+BRW000340,29,41619,Self-Employed,Tier 2,Undergraduate,2,23,92
+BRW000341,26,41293,Business Owner,Tier 2,Graduate,0,7,68
+BRW000342,37,36404,Business Owner,Tier 2,Undergraduate,1,71,53
+BRW000343,37,51510,Salaried,Tier 3,Graduate,2,4,17
+BRW000344,29,94137,Self-Employed,Tier 2,Graduate,1,80,25
+BRW000345,30,77624,Business Owner,Tier 2,Post-Graduate,1,0,22
+BRW000346,37,15000,Self-Employed,Tier 2,Graduate,1,15,10
+BRW000347,20,15000,Salaried,Tier 3,Graduate,1,9,25
+BRW000348,20,76684,Business Owner,Tier 3,Graduate,2,14,3
+BRW000349,27,15000,Self-Employed,Tier 1,Graduate,0,20,5
+BRW000350,32,30338,Salaried,Tier 3,Graduate,3,13,78
+BRW000351,38,15000,Self-Employed,Tier 2,Graduate,0,12,50
+BRW000352,49,15000,Salaried,Tier 3,Diploma,2,31,19
+BRW000353,43,56003,Salaried,Tier 2,Graduate,1,27,26
+BRW000354,33,66657,Business Owner,Tier 2,Post-Graduate,0,42,16
+BRW000355,34,22897,Salaried,Tier 3,Graduate,2,6,48
+BRW000356,24,15000,Self-Employed,Tier 1,Graduate,0,22,55
+BRW000357,34,23458,Self-Employed,Tier 3,Diploma,0,21,51
+BRW000358,32,49684,Salaried,Tier 2,Graduate,2,11,46
+BRW000359,38,15000,Freelancer,Tier 2,Diploma,0,15,8
+BRW000360,26,42053,Salaried,Tier 2,Graduate,1,9,14
+BRW000361,40,35873,Salaried,Tier 2,Undergraduate,0,3,22
+BRW000362,50,57724,Salaried,Tier 2,Post-Graduate,1,5,14
+BRW000363,33,39961,Salaried,Tier 1,Undergraduate,0,2,50
+BRW000364,39,16672,Salaried,Tier 1,Post-Graduate,3,27,14
+BRW000365,41,94585,Business Owner,Tier 1,Post-Graduate,0,25,5
+BRW000366,30,31989,Freelancer,Tier 3,Graduate,0,72,18
+BRW000367,37,35530,Salaried,Tier 3,Graduate,3,31,140
+BRW000368,35,17212,Self-Employed,Tier 2,Diploma,1,1,9
+BRW000369,35,25472,Business Owner,Tier 3,Graduate,3,51,34
+BRW000370,27,17892,Business Owner,Tier 2,Graduate,2,47,20
+BRW000371,35,31623,Self-Employed,Tier 2,Undergraduate,0,14,3
+BRW000372,39,142823,Salaried,Tier 3,Graduate,1,21,24
+BRW000373,49,15000,Salaried,Tier 3,Diploma,1,89,43
+BRW000374,44,15000,Business Owner,Tier 2,Undergraduate,1,18,25
+BRW000375,56,117822,Business Owner,Tier 3,Post-Graduate,0,56,74
+BRW000376,27,30716,Salaried,Tier 1,Undergraduate,2,2,12
+BRW000377,43,21263,Salaried,Tier 3,Graduate,2,5,3
+BRW000378,36,83443,Freelancer,Tier 1,Graduate,0,13,99
+BRW000379,56,22370,Business Owner,Tier 2,Post-Graduate,0,21,17
+BRW000380,26,156499,Freelancer,Tier 2,Graduate,5,40,30
+BRW000381,26,62463,Business Owner,Tier 2,Undergraduate,0,106,56
+BRW000382,29,24579,Salaried,Tier 1,Diploma,0,11,14
+BRW000383,18,203994,Self-Employed,Tier 3,Post-Graduate,1,1,45
+BRW000384,29,22368,Self-Employed,Tier 1,Graduate,2,38,5
+BRW000385,27,65754,Salaried,Tier 2,Diploma,1,22,12
+BRW000386,36,46139,Self-Employed,Tier 1,Post-Graduate,2,5,5
+BRW000387,38,102887,Business Owner,Tier 2,Post-Graduate,1,16,60
+BRW000388,53,126653,Salaried,Tier 2,Graduate,1,32,9
+BRW000389,44,37257,Business Owner,Tier 2,Diploma,2,35,45
+BRW000390,29,19875,Self-Employed,Tier 1,Post-Graduate,1,16,103
+BRW000391,26,52468,Freelancer,Tier 1,Undergraduate,1,8,27
+BRW000392,39,21116,Salaried,Tier 2,Undergraduate,1,87,27
+BRW000393,21,181808,Salaried,Tier 3,Graduate,1,26,22
+BRW000394,53,40506,Self-Employed,Tier 3,Post-Graduate,1,12,14
+BRW000395,46,27112,Salaried,Tier 1,Undergraduate,2,7,23
+BRW000396,30,42097,Business Owner,Tier 2,Graduate,0,31,33
+BRW000397,18,15000,Business Owner,Tier 1,Undergraduate,1,6,153
+BRW000398,48,16692,Salaried,Tier 1,Diploma,4,4,99
+BRW000399,33,94876,Self-Employed,Tier 2,Post-Graduate,0,18,71
+BRW000400,47,21471,Self-Employed,Tier 2,Undergraduate,0,8,79
+BRW000401,19,15716,Salaried,Tier 1,Undergraduate,1,23,22
+BRW000402,29,55788,Freelancer,Tier 1,Undergraduate,2,3,38
+BRW000403,35,93766,Business Owner,Tier 1,Graduate,4,25,81
+BRW000404,35,64547,Self-Employed,Tier 3,Graduate,2,7,17
+BRW000405,30,80566,Business Owner,Tier 3,Post-Graduate,0,0,117
+BRW000406,41,19822,Self-Employed,Tier 1,Undergraduate,0,3,19
+BRW000407,24,15000,Freelancer,Tier 1,Post-Graduate,1,65,33
+BRW000408,33,120700,Self-Employed,Tier 3,Undergraduate,0,48,44
+BRW000409,36,28053,Business Owner,Tier 3,Graduate,1,6,108
+BRW000410,40,29712,Business Owner,Tier 2,Post-Graduate,3,36,10
+BRW000411,42,105088,Salaried,Tier 1,Graduate,0,22,49
+BRW000412,23,56669,Business Owner,Tier 1,Undergraduate,3,84,26
+BRW000413,19,52297,Salaried,Tier 2,Post-Graduate,1,11,11
+BRW000414,47,205253,Salaried,Tier 2,Graduate,0,27,53
+BRW000415,38,21702,Salaried,Tier 1,Graduate,1,1,28
+BRW000416,27,76288,Freelancer,Tier 2,Undergraduate,0,12,38
+BRW000417,50,38010,Business Owner,Tier 1,Post-Graduate,1,79,14
+BRW000418,36,45020,Business Owner,Tier 3,Graduate,2,18,23
+BRW000419,46,123349,Business Owner,Tier 2,Diploma,1,8,34
+BRW000420,35,54517,Self-Employed,Tier 1,Undergraduate,1,3,18
+BRW000421,55,55861,Freelancer,Tier 2,Diploma,4,29,7
+BRW000422,52,85648,Self-Employed,Tier 2,Post-Graduate,4,24,117
+BRW000423,32,27120,Salaried,Tier 3,Post-Graduate,1,11,25
+BRW000424,44,18557,Salaried,Tier 2,Undergraduate,1,72,47
+BRW000425,41,15743,Business Owner,Tier 1,Post-Graduate,1,0,19
+BRW000426,48,15000,Business Owner,Tier 3,Undergraduate,0,8,15
+BRW000427,25,188144,Salaried,Tier 1,Graduate,2,60,18
+BRW000428,41,15024,Salaried,Tier 3,Post-Graduate,2,9,18
+BRW000429,45,30424,Business Owner,Tier 2,Graduate,0,6,28
+BRW000430,18,29101,Salaried,Tier 2,Graduate,1,18,28
+BRW000431,23,46440,Business Owner,Tier 1,Graduate,1,41,24
+BRW000432,18,69744,Freelancer,Tier 2,Graduate,1,2,5
+BRW000433,32,72285,Self-Employed,Tier 3,Diploma,0,68,24
+BRW000434,42,22777,Salaried,Tier 3,Graduate,1,38,6
+BRW000435,50,31770,Business Owner,Tier 1,Undergraduate,0,4,4
+BRW000436,35,45527,Business Owner,Tier 1,Undergraduate,1,29,97
+BRW000437,51,29763,Self-Employed,Tier 3,Post-Graduate,0,11,33
+BRW000438,21,131383,Freelancer,Tier 3,Graduate,5,12,38
+BRW000439,18,53786,Salaried,Tier 1,Undergraduate,3,36,18
+BRW000440,34,65375,Self-Employed,Tier 2,Post-Graduate,0,78,86
+BRW000441,38,61716,Business Owner,Tier 2,Undergraduate,3,3,36
+BRW000442,34,92853,Business Owner,Tier 3,Undergraduate,0,13,52
+BRW000443,18,41974,Salaried,Tier 1,Diploma,0,15,16
+BRW000444,34,15000,Business Owner,Tier 1,Post-Graduate,1,11,115
+BRW000445,21,49998,Self-Employed,Tier 3,Graduate,0,10,61
+BRW000446,41,21566,Salaried,Tier 1,Post-Graduate,1,1,69
+BRW000447,38,23792,Salaried,Tier 2,Graduate,2,27,6
+BRW000448,25,58051,Business Owner,Tier 2,Undergraduate,3,13,11
+BRW000449,29,97794,Salaried,Tier 2,Graduate,0,5,12
+BRW000450,24,36938,Salaried,Tier 2,Graduate,0,40,11
+BRW000451,34,46493,Salaried,Tier 2,Undergraduate,2,38,69
+BRW000452,44,141743,Business Owner,Tier 1,Post-Graduate,1,15,3
+BRW000453,25,44028,Self-Employed,Tier 2,Graduate,2,8,3
+BRW000454,40,291077,Business Owner,Tier 3,Post-Graduate,1,24,11
+BRW000455,29,57091,Salaried,Tier 3,Undergraduate,1,8,8
+BRW000456,27,15000,Self-Employed,Tier 1,Graduate,0,6,9
+BRW000457,33,66348,Self-Employed,Tier 1,Undergraduate,1,31,57
+BRW000458,24,49262,Business Owner,Tier 1,Graduate,2,0,29
+BRW000459,29,101905,Freelancer,Tier 2,Undergraduate,2,2,3
+BRW000460,23,62227,Salaried,Tier 2,Undergraduate,0,0,20
+BRW000461,54,32507,Self-Employed,Tier 2,Graduate,2,3,18
+BRW000462,35,15000,Salaried,Tier 1,Post-Graduate,1,1,4
+BRW000463,28,30723,Self-Employed,Tier 1,Graduate,1,120,40
+BRW000464,37,18390,Salaried,Tier 2,Undergraduate,1,8,43
+BRW000465,33,22824,Salaried,Tier 2,Post-Graduate,1,3,45
+BRW000466,32,58154,Salaried,Tier 1,Post-Graduate,1,6,46
+BRW000467,41,138126,Self-Employed,Tier 2,Graduate,0,66,3
+BRW000468,42,49798,Salaried,Tier 1,Graduate,0,17,110
+BRW000469,29,15000,Business Owner,Tier 3,Graduate,1,10,60
+BRW000470,29,51827,Self-Employed,Tier 3,Graduate,2,49,84
+BRW000471,32,94589,Salaried,Tier 1,Post-Graduate,1,12,3
+BRW000472,18,22296,Business Owner,Tier 1,Undergraduate,3,9,97
+BRW000473,19,32623,Salaried,Tier 2,Undergraduate,1,5,59
+BRW000474,48,36744,Self-Employed,Tier 1,Post-Graduate,1,11,65
+BRW000475,51,19381,Self-Employed,Tier 2,Diploma,0,9,3
+BRW000476,32,60999,Salaried,Tier 3,Undergraduate,2,27,48
+BRW000477,40,32966,Salaried,Tier 2,Diploma,2,8,115
+BRW000478,38,50798,Salaried,Tier 3,Post-Graduate,0,20,40
+BRW000479,65,17854,Freelancer,Tier 2,Graduate,0,1,30
+BRW000480,46,25591,Self-Employed,Tier 1,Graduate,0,5,104
+BRW000481,33,64725,Self-Employed,Tier 3,Undergraduate,2,12,21
+BRW000482,25,26949,Self-Employed,Tier 2,Graduate,1,66,32
+BRW000483,18,144577,Salaried,Tier 2,Graduate,2,11,23
+BRW000484,37,26378,Self-Employed,Tier 1,Post-Graduate,0,26,97
+BRW000485,27,43466,Business Owner,Tier 1,Post-Graduate,2,7,3
+BRW000486,20,76578,Salaried,Tier 3,Post-Graduate,2,3,25
+BRW000487,28,15000,Salaried,Tier 1,Graduate,0,1,41
+BRW000488,24,15000,Salaried,Tier 3,Graduate,0,8,56
+BRW000489,51,15000,Self-Employed,Tier 3,Post-Graduate,1,4,31
+BRW000490,43,99714,Freelancer,Tier 3,Diploma,1,4,86
+BRW000491,34,23353,Salaried,Tier 2,Undergraduate,1,34,102
+BRW000492,49,281126,Self-Employed,Tier 2,Diploma,1,0,3
+BRW000493,35,23123,Salaried,Tier 3,Undergraduate,2,19,18
+BRW000494,26,42093,Freelancer,Tier 1,Post-Graduate,3,11,3
+BRW000495,50,124702,Salaried,Tier 2,Graduate,1,16,14
+BRW000496,40,180750,Self-Employed,Tier 2,Undergraduate,2,19,27
+BRW000497,24,188943,Business Owner,Tier 2,Post-Graduate,2,9,87
+BRW000498,33,95481,Business Owner,Tier 2,Post-Graduate,0,8,67
+BRW000499,26,82392,Self-Employed,Tier 2,Post-Graduate,2,31,4
+BRW000500,21,58338,Salaried,Tier 2,Post-Graduate,2,49,3
+BRW000501,44,67689,Salaried,Tier 3,Graduate,3,5,32
+BRW000502,54,23366,Salaried,Tier 1,Post-Graduate,1,2,27
+BRW000503,21,18872,Salaried,Tier 3,Graduate,1,54,11
+BRW000504,40,36217,Self-Employed,Tier 2,Undergraduate,0,10,82
+BRW000505,28,31693,Salaried,Tier 3,Graduate,0,19,94
+BRW000506,30,25271,Salaried,Tier 2,Graduate,1,10,18
+BRW000507,29,63393,Self-Employed,Tier 3,Post-Graduate,1,3,79
+BRW000508,26,77982,Freelancer,Tier 1,Undergraduate,0,21,17
+BRW000509,35,38976,Self-Employed,Tier 3,Post-Graduate,1,17,48
+BRW000510,26,118423,Salaried,Tier 1,Graduate,1,5,23
+BRW000511,37,15000,Salaried,Tier 3,Post-Graduate,2,14,4
+BRW000512,34,31103,Freelancer,Tier 3,Graduate,1,38,94
+BRW000513,32,20466,Salaried,Tier 1,Diploma,0,21,21
+BRW000514,25,15000,Salaried,Tier 1,Diploma,1,2,47
+BRW000515,29,33991,Self-Employed,Tier 3,Post-Graduate,0,19,16
+BRW000516,42,32945,Self-Employed,Tier 1,Graduate,0,29,3
+BRW000517,40,121876,Self-Employed,Tier 3,Undergraduate,0,37,3
+BRW000518,25,60153,Salaried,Tier 1,Graduate,2,23,24
+BRW000519,35,16004,Salaried,Tier 1,Post-Graduate,1,3,42
+BRW000520,42,160055,Freelancer,Tier 3,Graduate,1,29,14
+BRW000521,18,96454,Salaried,Tier 2,Diploma,1,27,42
+BRW000522,40,57854,Self-Employed,Tier 3,Graduate,1,0,43
+BRW000523,28,30297,Business Owner,Tier 2,Post-Graduate,1,12,43
+BRW000524,40,16855,Self-Employed,Tier 2,Undergraduate,1,9,24
+BRW000525,27,26963,Salaried,Tier 2,Post-Graduate,1,26,88
+BRW000526,18,86768,Salaried,Tier 2,Graduate,3,5,24
+BRW000527,18,164007,Self-Employed,Tier 2,Diploma,1,21,21
+BRW000528,35,124815,Business Owner,Tier 2,Post-Graduate,1,58,8
+BRW000529,37,24561,Freelancer,Tier 2,Post-Graduate,2,38,13
+BRW000530,25,15000,Salaried,Tier 1,Graduate,1,61,3
+BRW000531,41,40648,Salaried,Tier 3,Post-Graduate,3,92,36
+BRW000532,18,15000,Freelancer,Tier 1,Post-Graduate,1,0,10
+BRW000533,34,47029,Business Owner,Tier 2,Graduate,0,23,13
+BRW000534,22,32270,Business Owner,Tier 1,Graduate,3,12,53
+BRW000535,28,25013,Salaried,Tier 2,Undergraduate,0,47,14
+BRW000536,35,15000,Self-Employed,Tier 3,Graduate,1,6,9
+BRW000537,26,54769,Business Owner,Tier 1,Graduate,0,95,6
+BRW000538,31,23714,Self-Employed,Tier 1,Post-Graduate,1,22,53
+BRW000539,45,15000,Self-Employed,Tier 1,Undergraduate,2,37,5
+BRW000540,29,15000,Salaried,Tier 2,Graduate,0,2,21
+BRW000541,43,35524,Self-Employed,Tier 3,Post-Graduate,1,4,25
+BRW000542,23,149911,Salaried,Tier 1,Graduate,3,34,41
+BRW000543,40,137174,Self-Employed,Tier 3,Graduate,2,0,36
+BRW000544,49,25193,Freelancer,Tier 2,Graduate,2,40,59
+BRW000545,18,22431,Salaried,Tier 2,Undergraduate,0,0,3
+BRW000546,27,52839,Business Owner,Tier 3,Graduate,1,25,12
+BRW000547,40,16338,Salaried,Tier 2,Graduate,0,10,11
+BRW000548,32,46232,Self-Employed,Tier 2,Post-Graduate,2,22,5
+BRW000549,38,67027,Freelancer,Tier 1,Undergraduate,2,28,12
+BRW000550,28,96910,Salaried,Tier 1,Graduate,2,10,13
+BRW000551,35,33519,Salaried,Tier 1,Post-Graduate,1,2,26
+BRW000552,33,30855,Self-Employed,Tier 1,Graduate,0,1,39
+BRW000553,46,17990,Salaried,Tier 2,Post-Graduate,0,21,17
+BRW000554,37,18741,Business Owner,Tier 2,Post-Graduate,2,17,45
+BRW000555,38,30297,Freelancer,Tier 2,Post-Graduate,1,32,14
+BRW000556,30,48722,Self-Employed,Tier 1,Graduate,0,17,12
+BRW000557,30,75423,Salaried,Tier 1,Graduate,0,13,28
+BRW000558,30,19100,Self-Employed,Tier 2,Graduate,0,12,3
+BRW000559,38,119868,Business Owner,Tier 3,Graduate,0,0,3
+BRW000560,30,29234,Salaried,Tier 1,Graduate,3,9,19
+BRW000561,37,35700,Self-Employed,Tier 3,Undergraduate,1,89,103
+BRW000562,55,19974,Self-Employed,Tier 2,Diploma,0,49,46
+BRW000563,43,15000,Self-Employed,Tier 2,Diploma,2,9,3
+BRW000564,31,73661,Salaried,Tier 2,Undergraduate,1,21,67
+BRW000565,47,65478,Business Owner,Tier 1,Post-Graduate,3,45,47
+BRW000566,30,28996,Salaried,Tier 1,Undergraduate,1,13,33
+BRW000567,18,38314,Salaried,Tier 2,Graduate,1,0,61
+BRW000568,24,54871,Business Owner,Tier 2,Post-Graduate,5,1,18
+BRW000569,18,15000,Business Owner,Tier 3,Post-Graduate,1,17,9
+BRW000570,31,23783,Salaried,Tier 2,Post-Graduate,1,83,25
+BRW000571,35,68556,Salaried,Tier 1,Undergraduate,1,28,28
+BRW000572,51,15000,Salaried,Tier 3,Graduate,1,1,27
+BRW000573,38,45928,Salaried,Tier 1,Graduate,0,5,29
+BRW000574,32,15000,Salaried,Tier 2,Diploma,1,35,106
+BRW000575,43,52740,Salaried,Tier 2,Graduate,0,44,83
+BRW000576,18,35294,Self-Employed,Tier 3,Post-Graduate,0,23,75
+BRW000577,37,15000,Business Owner,Tier 3,Diploma,1,24,58
+BRW000578,42,92207,Self-Employed,Tier 2,Post-Graduate,2,0,103
+BRW000579,20,20177,Self-Employed,Tier 2,Post-Graduate,1,42,3
+BRW000580,46,18992,Salaried,Tier 3,Graduate,1,37,11
+BRW000581,38,42636,Freelancer,Tier 1,Graduate,0,7,24
+BRW000582,30,91026,Business Owner,Tier 1,Undergraduate,2,29,67
+BRW000583,41,16112,Business Owner,Tier 1,Post-Graduate,0,5,25
+BRW000584,57,38152,Business Owner,Tier 1,Post-Graduate,3,0,49
+BRW000585,36,51177,Freelancer,Tier 2,Graduate,3,5,5
+BRW000586,37,63226,Self-Employed,Tier 2,Graduate,1,4,10
+BRW000587,30,41820,Salaried,Tier 2,Diploma,0,9,47
+BRW000588,26,27075,Self-Employed,Tier 1,Graduate,1,13,6
+BRW000589,43,18730,Business Owner,Tier 3,Post-Graduate,1,17,15
+BRW000590,26,38906,Business Owner,Tier 2,Graduate,3,15,11
+BRW000591,35,15402,Self-Employed,Tier 2,Undergraduate,1,7,15
+BRW000592,30,15000,Salaried,Tier 2,Diploma,0,0,44
+BRW000593,39,51495,Salaried,Tier 2,Post-Graduate,2,22,16
+BRW000594,38,74843,Freelancer,Tier 1,Graduate,0,12,29
+BRW000595,45,15000,Self-Employed,Tier 1,Post-Graduate,0,8,3
+BRW000596,29,16191,Self-Employed,Tier 3,Undergraduate,1,48,58
+BRW000597,32,59594,Salaried,Tier 3,Post-Graduate,1,32,16
+BRW000598,25,188338,Salaried,Tier 2,Undergraduate,1,46,37
+BRW000599,30,36924,Business Owner,Tier 1,Post-Graduate,0,16,46
+BRW000600,38,20284,Self-Employed,Tier 2,Undergraduate,3,3,8
+BRW000601,42,31372,Business Owner,Tier 3,Post-Graduate,1,28,77
+BRW000602,25,109087,Self-Employed,Tier 3,Graduate,0,5,34
+BRW000603,43,21660,Self-Employed,Tier 1,Graduate,2,13,20
+BRW000604,48,19161,Salaried,Tier 1,Graduate,2,1,7
+BRW000605,39,24681,Business Owner,Tier 3,Diploma,1,41,102
+BRW000606,53,16938,Self-Employed,Tier 2,Undergraduate,1,3,50
+BRW000607,27,40060,Self-Employed,Tier 1,Undergraduate,2,56,8
+BRW000608,22,133218,Self-Employed,Tier 1,Graduate,0,47,14
+BRW000609,18,47026,Freelancer,Tier 2,Graduate,1,14,59
+BRW000610,49,29676,Salaried,Tier 3,Undergraduate,2,32,42
+BRW000611,41,28754,Business Owner,Tier 3,Post-Graduate,0,23,52
+BRW000612,34,15000,Salaried,Tier 2,Graduate,1,38,20
+BRW000613,37,73606,Self-Employed,Tier 2,Post-Graduate,1,13,45
+BRW000614,23,34123,Salaried,Tier 1,Graduate,1,36,17
+BRW000615,59,31433,Salaried,Tier 2,Graduate,2,14,8
+BRW000616,36,467187,Self-Employed,Tier 2,Post-Graduate,1,67,36
+BRW000617,36,46120,Salaried,Tier 2,Graduate,1,15,134
+BRW000618,42,19901,Self-Employed,Tier 2,Diploma,3,14,13
+BRW000619,39,25820,Freelancer,Tier 1,Graduate,2,36,22
+BRW000620,37,91012,Salaried,Tier 1,Graduate,1,41,40
+BRW000621,27,39759,Business Owner,Tier 2,Graduate,0,19,28
+BRW000622,39,15000,Self-Employed,Tier 1,Undergraduate,0,4,66
+BRW000623,53,75764,Self-Employed,Tier 1,Post-Graduate,0,15,51
+BRW000624,48,21279,Salaried,Tier 3,Post-Graduate,1,82,3
+BRW000625,50,162533,Salaried,Tier 2,Graduate,0,33,232
+BRW000626,29,86166,Salaried,Tier 2,Graduate,0,40,50
+BRW000627,25,25390,Salaried,Tier 3,Post-Graduate,3,0,71
+BRW000628,33,101195,Salaried,Tier 3,Undergraduate,1,15,37
+BRW000629,35,38341,Self-Employed,Tier 2,Undergraduate,0,24,69
+BRW000630,45,71841,Business Owner,Tier 3,Graduate,0,42,4
+BRW000631,18,53518,Business Owner,Tier 2,Post-Graduate,0,1,15
+BRW000632,50,18451,Self-Employed,Tier 2,Diploma,2,45,75
+BRW000633,33,21702,Salaried,Tier 2,Graduate,2,19,8
+BRW000634,30,82782,Salaried,Tier 2,Undergraduate,0,5,3
+BRW000635,24,27783,Salaried,Tier 2,Graduate,2,9,55
+BRW000636,18,26293,Salaried,Tier 2,Diploma,1,7,64
+BRW000637,43,16914,Self-Employed,Tier 1,Undergraduate,2,18,6
+BRW000638,35,50964,Self-Employed,Tier 2,Diploma,0,1,69
+BRW000639,22,189097,Salaried,Tier 1,Undergraduate,1,4,41
+BRW000640,22,15459,Salaried,Tier 2,Graduate,2,40,26
+BRW000641,31,37025,Business Owner,Tier 2,Diploma,2,3,63
+BRW000642,51,112395,Business Owner,Tier 3,Graduate,3,6,19
+BRW000643,32,34073,Salaried,Tier 3,Graduate,2,14,7
+BRW000644,19,52150,Freelancer,Tier 3,Undergraduate,0,17,12
+BRW000645,32,15523,Freelancer,Tier 2,Undergraduate,1,34,25
+BRW000646,32,51156,Salaried,Tier 3,Diploma,2,14,27
+BRW000647,18,31265,Salaried,Tier 2,Graduate,0,37,58
+BRW000648,34,79904,Self-Employed,Tier 1,Undergraduate,1,23,56
+BRW000649,32,93892,Freelancer,Tier 1,Undergraduate,2,2,31
+BRW000650,41,288269,Business Owner,Tier 1,Graduate,2,4,54
+BRW000651,53,57740,Salaried,Tier 2,Graduate,2,13,7
+BRW000652,46,47128,Salaried,Tier 2,Graduate,0,12,3
+BRW000653,32,42425,Self-Employed,Tier 3,Graduate,2,32,74
+BRW000654,23,27377,Self-Employed,Tier 1,Diploma,1,20,3
+BRW000655,60,47609,Salaried,Tier 1,Post-Graduate,1,11,10
+BRW000656,35,28672,Business Owner,Tier 3,Undergraduate,1,4,42
+BRW000657,35,41554,Self-Employed,Tier 1,Diploma,2,6,18
+BRW000658,34,104201,Business Owner,Tier 2,Graduate,1,20,75
+BRW000659,36,16232,Business Owner,Tier 2,Undergraduate,0,13,12
+BRW000660,33,90391,Business Owner,Tier 2,Post-Graduate,4,17,3
+BRW000661,29,104160,Self-Employed,Tier 1,Undergraduate,1,4,12
+BRW000662,29,33042,Self-Employed,Tier 1,Graduate,0,26,31
+BRW000663,34,15000,Salaried,Tier 1,Diploma,0,45,16
+BRW000664,29,22331,Self-Employed,Tier 2,Graduate,1,7,27
+BRW000665,27,102497,Salaried,Tier 2,Graduate,0,16,75
+BRW000666,36,35657,Self-Employed,Tier 1,Undergraduate,0,89,87
+BRW000667,32,16326,Salaried,Tier 2,Graduate,4,9,11
+BRW000668,50,24250,Salaried,Tier 3,Post-Graduate,1,21,22
+BRW000669,18,71146,Salaried,Tier 1,Post-Graduate,0,2,28
+BRW000670,45,56240,Salaried,Tier 2,Undergraduate,2,22,107
+BRW000671,47,29997,Business Owner,Tier 2,Graduate,1,2,237
+BRW000672,18,27079,Business Owner,Tier 1,Graduate,0,76,9
+BRW000673,31,26544,Self-Employed,Tier 2,Graduate,0,30,46
+BRW000674,31,17362,Salaried,Tier 2,Post-Graduate,0,37,17
+BRW000675,20,132230,Salaried,Tier 3,Graduate,0,29,3
+BRW000676,27,28061,Salaried,Tier 3,Graduate,1,21,3
+BRW000677,23,96155,Salaried,Tier 2,Graduate,0,14,22
+BRW000678,52,122645,Business Owner,Tier 3,Graduate,2,46,24
+BRW000679,44,80712,Salaried,Tier 2,Post-Graduate,0,75,3
+BRW000680,47,25711,Salaried,Tier 2,Undergraduate,1,16,41
+BRW000681,42,50160,Salaried,Tier 2,Graduate,4,64,12
+BRW000682,23,35619,Salaried,Tier 1,Post-Graduate,1,21,29
+BRW000683,29,17624,Self-Employed,Tier 3,Undergraduate,2,18,12
+BRW000684,39,47074,Self-Employed,Tier 2,Post-Graduate,1,14,6
+BRW000685,22,15000,Salaried,Tier 2,Undergraduate,2,5,18
+BRW000686,42,93914,Salaried,Tier 3,Post-Graduate,1,0,9
+BRW000687,32,25041,Salaried,Tier 1,Post-Graduate,1,6,27
+BRW000688,31,42656,Salaried,Tier 2,Graduate,2,17,7
+BRW000689,42,45552,Salaried,Tier 1,Undergraduate,1,11,25
+BRW000690,39,29521,Freelancer,Tier 3,Undergraduate,2,14,6
+BRW000691,31,58067,Self-Employed,Tier 3,Graduate,0,94,40
+BRW000692,46,24836,Self-Employed,Tier 2,Graduate,0,10,50
+BRW000693,24,72914,Self-Employed,Tier 2,Diploma,2,14,4
+BRW000694,41,15000,Self-Employed,Tier 2,Post-Graduate,2,3,22
+BRW000695,40,40179,Self-Employed,Tier 3,Post-Graduate,0,1,3
+BRW000696,31,171295,Self-Employed,Tier 2,Diploma,1,35,32
+BRW000697,38,16313,Business Owner,Tier 2,Undergraduate,4,20,11
+BRW000698,22,21116,Salaried,Tier 3,Post-Graduate,1,34,26
+BRW000699,44,54782,Self-Employed,Tier 1,Undergraduate,1,3,26
+BRW000700,33,41926,Self-Employed,Tier 1,Undergraduate,1,20,92
+BRW000701,29,48074,Business Owner,Tier 2,Post-Graduate,0,7,28
+BRW000702,45,53709,Self-Employed,Tier 3,Post-Graduate,1,6,31
+BRW000703,27,60341,Self-Employed,Tier 2,Graduate,1,0,18
+BRW000704,20,88235,Salaried,Tier 1,Diploma,1,3,107
+BRW000705,19,50405,Self-Employed,Tier 2,Undergraduate,2,8,54
+BRW000706,41,29941,Salaried,Tier 2,Graduate,1,2,12
+BRW000707,22,62196,Salaried,Tier 1,Undergraduate,2,102,66
+BRW000708,52,166026,Salaried,Tier 2,Post-Graduate,1,8,20
+BRW000709,18,32659,Self-Employed,Tier 3,Graduate,2,3,63
+BRW000710,51,16653,Salaried,Tier 2,Post-Graduate,0,5,62
+BRW000711,37,88050,Salaried,Tier 2,Post-Graduate,0,21,7
+BRW000712,34,32981,Business Owner,Tier 2,Undergraduate,2,1,43
+BRW000713,29,15000,Salaried,Tier 1,Graduate,1,47,12
+BRW000714,38,71534,Self-Employed,Tier 3,Undergraduate,1,78,12
+BRW000715,34,23664,Self-Employed,Tier 2,Post-Graduate,0,6,12
+BRW000716,46,33778,Salaried,Tier 2,Graduate,1,14,46
+BRW000717,36,47362,Business Owner,Tier 2,Diploma,0,0,9
+BRW000718,36,42293,Salaried,Tier 2,Post-Graduate,2,24,3
+BRW000719,31,64059,Self-Employed,Tier 2,Graduate,0,12,45
+BRW000720,34,25632,Self-Employed,Tier 1,Post-Graduate,0,7,6
+BRW000721,38,54747,Self-Employed,Tier 3,Undergraduate,0,5,3
+BRW000722,18,29506,Self-Employed,Tier 3,Graduate,2,25,9
+BRW000723,21,65581,Salaried,Tier 2,Graduate,2,12,17
+BRW000724,42,59414,Salaried,Tier 3,Graduate,3,4,23
+BRW000725,36,17182,Business Owner,Tier 1,Graduate,3,28,3
+BRW000726,33,86576,Self-Employed,Tier 2,Undergraduate,2,19,126
+BRW000727,35,23652,Business Owner,Tier 2,Post-Graduate,1,46,45
+BRW000728,38,69317,Business Owner,Tier 2,Graduate,0,2,14
+BRW000729,29,48719,Business Owner,Tier 2,Graduate,2,36,13
+BRW000730,27,158031,Self-Employed,Tier 2,Graduate,2,26,21
+BRW000731,36,30370,Salaried,Tier 1,Diploma,3,2,35
+BRW000732,25,27461,Business Owner,Tier 2,Graduate,1,28,5
+BRW000733,39,35755,Self-Employed,Tier 1,Diploma,1,13,7
+BRW000734,18,28494,Salaried,Tier 3,Post-Graduate,1,69,70
+BRW000735,45,68868,Business Owner,Tier 1,Graduate,3,3,10
+BRW000736,39,15000,Business Owner,Tier 1,Undergraduate,1,24,17
+BRW000737,37,15631,Self-Employed,Tier 2,Post-Graduate,1,11,73
+BRW000738,44,15456,Salaried,Tier 2,Undergraduate,2,75,39
+BRW000739,51,77671,Salaried,Tier 3,Diploma,2,9,15
+BRW000740,45,142698,Business Owner,Tier 2,Graduate,1,78,41
+BRW000741,18,33404,Freelancer,Tier 2,Graduate,1,55,3
+BRW000742,22,31727,Salaried,Tier 3,Undergraduate,3,7,47
+BRW000743,28,38408,Salaried,Tier 2,Graduate,2,39,24
+BRW000744,35,91996,Business Owner,Tier 1,Graduate,0,120,60
+BRW000745,40,17294,Salaried,Tier 2,Graduate,2,6,111
+BRW000746,27,43945,Self-Employed,Tier 3,Graduate,1,13,93
+BRW000747,36,79233,Freelancer,Tier 2,Undergraduate,3,17,86
+BRW000748,27,54223,Salaried,Tier 1,Graduate,1,8,25
+BRW000749,28,42262,Self-Employed,Tier 1,Post-Graduate,2,0,16
+BRW000750,20,80889,Salaried,Tier 1,Post-Graduate,0,5,22
+BRW000751,25,15000,Salaried,Tier 2,Post-Graduate,2,7,42
+BRW000752,21,62461,Business Owner,Tier 2,Graduate,2,14,77
+BRW000753,25,21520,Self-Employed,Tier 1,Undergraduate,1,4,8
+BRW000754,45,15000,Freelancer,Tier 3,Graduate,0,49,90
+BRW000755,25,54664,Self-Employed,Tier 3,Undergraduate,2,29,60
+BRW000756,61,108980,Salaried,Tier 2,Undergraduate,3,2,138
+BRW000757,39,32534,Salaried,Tier 3,Post-Graduate,0,25,76
+BRW000758,36,77831,Salaried,Tier 1,Post-Graduate,1,25,11
+BRW000759,26,131903,Salaried,Tier 2,Post-Graduate,1,75,4
+BRW000760,42,103977,Salaried,Tier 2,Graduate,0,0,4
+BRW000761,29,134857,Salaried,Tier 3,Undergraduate,1,6,12
+BRW000762,36,65755,Self-Employed,Tier 3,Undergraduate,2,63,34
+BRW000763,60,38574,Business Owner,Tier 1,Graduate,0,64,58
+BRW000764,34,15000,Self-Employed,Tier 3,Post-Graduate,1,30,82
+BRW000765,46,29826,Business Owner,Tier 1,Diploma,2,34,35
+BRW000766,27,18497,Salaried,Tier 3,Diploma,3,2,3
+BRW000767,34,206231,Salaried,Tier 3,Post-Graduate,0,17,7
+BRW000768,52,31548,Self-Employed,Tier 1,Post-Graduate,1,6,3
+BRW000769,28,40077,Self-Employed,Tier 3,Graduate,2,4,16
+BRW000770,53,56454,Salaried,Tier 1,Diploma,2,39,25
+BRW000771,42,37604,Business Owner,Tier 2,Graduate,1,3,3
+BRW000772,29,140933,Business Owner,Tier 2,Post-Graduate,1,15,15
+BRW000773,41,22067,Self-Employed,Tier 2,Graduate,1,66,7
+BRW000774,44,42433,Salaried,Tier 3,Graduate,2,4,37
+BRW000775,41,20050,Business Owner,Tier 2,Post-Graduate,2,91,22
+BRW000776,19,15000,Self-Employed,Tier 2,Diploma,1,120,24
+BRW000777,27,22260,Business Owner,Tier 3,Graduate,0,19,20
+BRW000778,32,35255,Business Owner,Tier 3,Post-Graduate,2,4,112
+BRW000779,34,25759,Business Owner,Tier 1,Graduate,3,9,8
+BRW000780,41,20869,Self-Employed,Tier 3,Graduate,1,13,26
+BRW000781,36,15000,Salaried,Tier 1,Post-Graduate,1,8,47
+BRW000782,21,33979,Self-Employed,Tier 3,Post-Graduate,0,7,29
+BRW000783,38,15000,Self-Employed,Tier 1,Graduate,2,86,95
+BRW000784,41,66705,Business Owner,Tier 1,Graduate,0,3,17
+BRW000785,40,38791,Salaried,Tier 2,Graduate,1,31,22
+BRW000786,45,15000,Salaried,Tier 2,Graduate,1,0,3
+BRW000787,43,28357,Business Owner,Tier 2,Diploma,0,21,33
+BRW000788,39,19896,Business Owner,Tier 1,Diploma,1,59,12
+BRW000789,34,46879,Freelancer,Tier 2,Graduate,1,8,6
+BRW000790,18,106123,Business Owner,Tier 3,Post-Graduate,2,4,28
+BRW000791,39,15000,Self-Employed,Tier 2,Diploma,2,25,27
+BRW000792,37,39815,Self-Employed,Tier 1,Graduate,0,29,3
+BRW000793,37,31948,Business Owner,Tier 2,Undergraduate,2,27,43
+BRW000794,22,62135,Self-Employed,Tier 1,Diploma,0,9,35
+BRW000795,24,43068,Self-Employed,Tier 3,Graduate,0,6,7
+BRW000796,45,19898,Salaried,Tier 3,Graduate,1,74,22
+BRW000797,34,28134,Self-Employed,Tier 2,Diploma,1,61,45
+BRW000798,41,19209,Business Owner,Tier 2,Post-Graduate,0,14,27
+BRW000799,35,85888,Salaried,Tier 3,Graduate,3,44,18
+BRW000800,35,36939,Salaried,Tier 2,Graduate,0,14,14
+BRW000801,44,166200,Salaried,Tier 3,Post-Graduate,1,13,33
+BRW000802,29,34595,Salaried,Tier 2,Undergraduate,1,4,100
+BRW000803,35,20604,Salaried,Tier 3,Undergraduate,1,13,40
+BRW000804,30,15000,Self-Employed,Tier 2,Diploma,1,18,3
+BRW000805,30,15000,Freelancer,Tier 2,Graduate,1,0,22
+BRW000806,31,15000,Self-Employed,Tier 3,Post-Graduate,1,14,79
+BRW000807,37,44967,Salaried,Tier 2,Post-Graduate,2,36,3
+BRW000808,30,54555,Salaried,Tier 2,Post-Graduate,1,27,161
+BRW000809,47,15000,Self-Employed,Tier 1,Graduate,2,24,107
+BRW000810,26,74312,Salaried,Tier 2,Diploma,1,57,3
+BRW000811,33,24675,Business Owner,Tier 2,Undergraduate,1,0,97
+BRW000812,30,40840,Self-Employed,Tier 1,Post-Graduate,1,19,16
+BRW000813,49,131896,Business Owner,Tier 1,Post-Graduate,1,37,67
+BRW000814,36,74419,Salaried,Tier 2,Graduate,1,18,19
+BRW000815,45,29295,Self-Employed,Tier 3,Post-Graduate,1,9,20
+BRW000816,20,17801,Salaried,Tier 2,Undergraduate,0,3,36
+BRW000817,37,15000,Freelancer,Tier 1,Post-Graduate,0,52,53
+BRW000818,43,20428,Self-Employed,Tier 2,Diploma,1,15,3
+BRW000819,35,30671,Salaried,Tier 1,Post-Graduate,1,50,32
+BRW000820,45,16485,Salaried,Tier 2,Graduate,3,21,7
+BRW000821,29,32695,Salaried,Tier 1,Undergraduate,0,26,15
+BRW000822,49,38618,Self-Employed,Tier 1,Graduate,0,39,15
+BRW000823,57,30336,Salaried,Tier 1,Graduate,0,25,22
+BRW000824,31,21590,Self-Employed,Tier 2,Graduate,3,12,14
+BRW000825,30,41561,Salaried,Tier 1,Post-Graduate,2,17,4
+BRW000826,49,51717,Self-Employed,Tier 2,Undergraduate,0,38,5
+BRW000827,50,15179,Business Owner,Tier 2,Post-Graduate,1,11,3
+BRW000828,29,112279,Business Owner,Tier 2,Undergraduate,2,11,22
+BRW000829,30,33561,Business Owner,Tier 2,Post-Graduate,0,2,111
+BRW000830,32,36867,Salaried,Tier 3,Graduate,1,59,4
+BRW000831,21,63995,Salaried,Tier 1,Undergraduate,0,2,105
+BRW000832,25,43764,Self-Employed,Tier 2,Graduate,3,25,47
+BRW000833,24,77847,Salaried,Tier 1,Graduate,2,12,36
+BRW000834,27,45692,Self-Employed,Tier 1,Post-Graduate,2,12,37
+BRW000835,34,22248,Salaried,Tier 2,Graduate,1,27,63
+BRW000836,37,48494,Salaried,Tier 2,Graduate,1,1,4
+BRW000837,50,15000,Salaried,Tier 3,Post-Graduate,3,21,25
+BRW000838,25,39610,Business Owner,Tier 2,Post-Graduate,1,35,42
+BRW000839,44,35362,Salaried,Tier 3,Post-Graduate,0,42,31
+BRW000840,32,30745,Self-Employed,Tier 1,Diploma,1,4,64
+BRW000841,34,32766,Salaried,Tier 1,Post-Graduate,1,54,3
+BRW000842,41,15000,Self-Employed,Tier 1,Undergraduate,1,25,42
+BRW000843,23,23412,Salaried,Tier 1,Graduate,3,51,27
+BRW000844,38,39115,Business Owner,Tier 2,Post-Graduate,0,15,17
+BRW000845,36,41269,Business Owner,Tier 2,Undergraduate,1,18,14
+BRW000846,39,15960,Salaried,Tier 1,Post-Graduate,1,60,34
+BRW000847,37,99964,Freelancer,Tier 3,Undergraduate,0,55,79
+BRW000848,59,18161,Freelancer,Tier 3,Graduate,2,14,24
+BRW000849,28,78870,Business Owner,Tier 1,Graduate,0,7,62
+BRW000850,29,51111,Business Owner,Tier 1,Post-Graduate,0,11,18
+BRW000851,28,21655,Salaried,Tier 1,Graduate,2,11,3
+BRW000852,29,150278,Self-Employed,Tier 1,Undergraduate,0,8,3
+BRW000853,28,15000,Salaried,Tier 1,Graduate,2,7,3
+BRW000854,46,75759,Salaried,Tier 2,Diploma,1,47,17
+BRW000855,49,80859,Freelancer,Tier 1,Diploma,2,1,14
+BRW000856,29,21237,Salaried,Tier 2,Graduate,1,27,45
+BRW000857,26,110632,Business Owner,Tier 3,Graduate,1,4,48
+BRW000858,39,29731,Business Owner,Tier 2,Undergraduate,2,10,3
+BRW000859,29,45750,Business Owner,Tier 3,Diploma,1,1,8
+BRW000860,41,44723,Freelancer,Tier 1,Post-Graduate,0,7,11
+BRW000861,37,32615,Salaried,Tier 2,Graduate,1,35,28
+BRW000862,19,69469,Salaried,Tier 2,Post-Graduate,1,51,5
+BRW000863,50,68513,Self-Employed,Tier 1,Undergraduate,1,6,5
+BRW000864,52,15000,Salaried,Tier 1,Graduate,1,14,103
+BRW000865,28,103101,Salaried,Tier 2,Undergraduate,1,15,58
+BRW000866,31,15000,Salaried,Tier 2,Graduate,1,49,7
+BRW000867,37,82953,Business Owner,Tier 2,Graduate,1,34,18
+BRW000868,38,89443,Self-Employed,Tier 2,Graduate,0,17,15
+BRW000869,41,15172,Salaried,Tier 2,Graduate,0,26,56
+BRW000870,55,26143,Self-Employed,Tier 1,Graduate,1,45,25
+BRW000871,33,15000,Salaried,Tier 2,Post-Graduate,0,0,4
+BRW000872,27,30578,Salaried,Tier 1,Graduate,0,12,48
+BRW000873,21,28383,Business Owner,Tier 1,Graduate,0,57,18
+BRW000874,27,67760,Self-Employed,Tier 3,Graduate,1,32,10
+BRW000875,34,103595,Business Owner,Tier 2,Diploma,0,18,16
+BRW000876,52,110918,Salaried,Tier 3,Post-Graduate,1,18,24
+BRW000877,29,23161,Business Owner,Tier 2,Post-Graduate,2,10,15
+BRW000878,37,30718,Self-Employed,Tier 2,Post-Graduate,1,17,9
+BRW000879,34,15000,Self-Employed,Tier 1,Diploma,1,25,18
+BRW000880,46,19059,Self-Employed,Tier 1,Graduate,0,13,3
+BRW000881,60,78580,Business Owner,Tier 1,Undergraduate,4,30,53
+BRW000882,29,132252,Self-Employed,Tier 3,Undergraduate,0,47,6
+BRW000883,30,15000,Self-Employed,Tier 2,Post-Graduate,0,4,3
+BRW000884,45,22607,Freelancer,Tier 2,Graduate,1,14,38
+BRW000885,41,35556,Business Owner,Tier 2,Undergraduate,2,12,53
+BRW000886,53,45439,Self-Employed,Tier 3,Graduate,2,27,60
+BRW000887,40,19002,Business Owner,Tier 1,Post-Graduate,1,6,24
+BRW000888,31,50983,Salaried,Tier 1,Undergraduate,1,24,8
+BRW000889,40,24857,Salaried,Tier 2,Graduate,2,50,48
+BRW000890,46,35898,Self-Employed,Tier 3,Undergraduate,2,12,43
+BRW000891,43,56219,Freelancer,Tier 3,Graduate,2,58,10
+BRW000892,40,36502,Freelancer,Tier 1,Undergraduate,0,119,84
+BRW000893,45,25613,Salaried,Tier 3,Post-Graduate,1,2,3
+BRW000894,46,33266,Self-Employed,Tier 3,Graduate,1,6,146
+BRW000895,48,33836,Salaried,Tier 1,Graduate,2,72,70
+BRW000896,41,27010,Freelancer,Tier 2,Diploma,1,76,41
+BRW000897,33,29524,Freelancer,Tier 2,Graduate,1,2,100
+BRW000898,36,130472,Self-Employed,Tier 3,Graduate,2,0,46
+BRW000899,47,56882,Business Owner,Tier 1,Graduate,0,4,7
+BRW000900,26,28670,Business Owner,Tier 3,Post-Graduate,1,120,21
+BRW000901,38,63421,Self-Employed,Tier 2,Post-Graduate,3,4,3
+BRW000902,31,27804,Salaried,Tier 3,Graduate,0,16,17
+BRW000903,35,92827,Self-Employed,Tier 2,Graduate,2,45,48
+BRW000904,47,48811,Self-Employed,Tier 2,Graduate,1,0,17
+BRW000905,36,33328,Self-Employed,Tier 3,Graduate,3,22,14
+BRW000906,35,51957,Salaried,Tier 3,Post-Graduate,0,7,32
+BRW000907,21,15000,Freelancer,Tier 3,Undergraduate,2,47,74
+BRW000908,42,15000,Salaried,Tier 1,Graduate,0,7,3
+BRW000909,41,15000,Self-Employed,Tier 2,Graduate,1,27,17
+BRW000910,56,40715,Self-Employed,Tier 1,Graduate,1,26,6
+BRW000911,31,145221,Self-Employed,Tier 2,Diploma,2,6,42
+BRW000912,37,216433,Self-Employed,Tier 2,Diploma,2,0,4
+BRW000913,37,60502,Salaried,Tier 2,Undergraduate,1,12,39
+BRW000914,50,54212,Salaried,Tier 2,Graduate,0,8,12
+BRW000915,34,15000,Self-Employed,Tier 3,Graduate,0,39,7
+BRW000916,37,23525,Self-Employed,Tier 1,Graduate,0,38,99
+BRW000917,41,19336,Salaried,Tier 2,Graduate,2,14,3
+BRW000918,36,22099,Business Owner,Tier 2,Post-Graduate,1,22,20
+BRW000919,30,31744,Self-Employed,Tier 1,Undergraduate,1,22,3
+BRW000920,36,24892,Self-Employed,Tier 1,Undergraduate,0,42,23
+BRW000921,45,15000,Business Owner,Tier 3,Undergraduate,0,13,25
+BRW000922,24,66060,Salaried,Tier 3,Graduate,2,7,13
+BRW000923,36,15395,Salaried,Tier 3,Undergraduate,0,7,5
+BRW000924,27,43975,Business Owner,Tier 3,Graduate,1,18,17
+BRW000925,46,190854,Self-Employed,Tier 1,Graduate,3,14,40
+BRW000926,19,17404,Self-Employed,Tier 2,Undergraduate,2,13,54
+BRW000927,29,15000,Business Owner,Tier 2,Graduate,1,2,27
+BRW000928,38,28888,Business Owner,Tier 2,Post-Graduate,1,30,32
+BRW000929,50,87620,Freelancer,Tier 2,Graduate,3,5,8
+BRW000930,34,173976,Self-Employed,Tier 2,Undergraduate,3,5,12
+BRW000931,29,15000,Self-Employed,Tier 2,Undergraduate,0,12,6
+BRW000932,53,54033,Self-Employed,Tier 2,Graduate,1,6,10
+BRW000933,20,25028,Salaried,Tier 1,Undergraduate,1,21,9
+BRW000934,18,33364,Self-Employed,Tier 2,Graduate,0,11,26
+BRW000935,39,301183,Salaried,Tier 2,Post-Graduate,1,14,29
+BRW000936,29,15000,Freelancer,Tier 2,Undergraduate,0,18,104
+BRW000937,24,44488,Self-Employed,Tier 1,Undergraduate,3,5,7
+BRW000938,42,52794,Self-Employed,Tier 3,Diploma,1,4,36
+BRW000939,37,86563,Salaried,Tier 1,Graduate,0,50,61
+BRW000940,29,39276,Salaried,Tier 2,Undergraduate,0,13,29
+BRW000941,22,46464,Salaried,Tier 3,Post-Graduate,2,12,10
+BRW000942,43,26547,Self-Employed,Tier 2,Diploma,2,0,10
+BRW000943,41,45039,Salaried,Tier 1,Graduate,0,16,3
+BRW000944,34,27596,Self-Employed,Tier 2,Undergraduate,3,19,13
+BRW000945,53,59710,Business Owner,Tier 2,Post-Graduate,1,19,49
+BRW000946,24,27019,Business Owner,Tier 3,Graduate,0,29,3
+BRW000947,19,49103,Self-Employed,Tier 3,Post-Graduate,1,4,8
+BRW000948,28,35475,Salaried,Tier 2,Graduate,1,6,44
+BRW000949,34,89396,Business Owner,Tier 2,Post-Graduate,2,39,54
+BRW000950,37,34852,Business Owner,Tier 1,Undergraduate,1,70,21
+BRW000951,32,15000,Salaried,Tier 1,Post-Graduate,1,3,43
+BRW000952,38,99661,Business Owner,Tier 2,Post-Graduate,0,16,17
+BRW000953,22,17595,Salaried,Tier 2,Post-Graduate,1,5,6
+BRW000954,49,21525,Business Owner,Tier 2,Graduate,2,1,18
+BRW000955,34,22549,Freelancer,Tier 1,Graduate,1,9,31
+BRW000956,46,109048,Salaried,Tier 1,Post-Graduate,3,3,106
+BRW000957,38,15000,Business Owner,Tier 2,Graduate,1,29,3
+BRW000958,39,446948,Self-Employed,Tier 1,Graduate,2,18,25
+BRW000959,40,84528,Freelancer,Tier 3,Post-Graduate,3,3,14
+BRW000960,39,43416,Self-Employed,Tier 1,Graduate,1,0,25
+BRW000961,41,34755,Business Owner,Tier 2,Graduate,2,39,3
+BRW000962,48,45635,Salaried,Tier 3,Post-Graduate,0,4,13
+BRW000963,36,55099,Salaried,Tier 1,Graduate,1,22,61
+BRW000964,42,60850,Salaried,Tier 2,Diploma,0,9,29
+BRW000965,34,56640,Freelancer,Tier 1,Undergraduate,0,21,21
+BRW000966,49,39013,Business Owner,Tier 2,Undergraduate,1,9,12
+BRW000967,28,31011,Business Owner,Tier 2,Graduate,1,2,12
+BRW000968,53,32176,Freelancer,Tier 2,Undergraduate,0,6,17
+BRW000969,34,31072,Salaried,Tier 2,Undergraduate,2,4,64
+BRW000970,20,89950,Salaried,Tier 3,Undergraduate,1,13,123
+BRW000971,36,58386,Salaried,Tier 1,Graduate,0,25,20
+BRW000972,28,15000,Salaried,Tier 1,Post-Graduate,0,7,17
+BRW000973,43,61372,Salaried,Tier 3,Undergraduate,0,0,67
+BRW000974,28,42437,Self-Employed,Tier 2,Post-Graduate,4,17,20
+BRW000975,30,35776,Salaried,Tier 3,Post-Graduate,2,22,28
+BRW000976,18,26613,Salaried,Tier 2,Post-Graduate,2,79,9
+BRW000977,30,89258,Salaried,Tier 3,Post-Graduate,1,21,48
+BRW000978,18,77499,Salaried,Tier 2,Graduate,3,15,27
+BRW000979,19,19568,Freelancer,Tier 3,Post-Graduate,3,20,59
+BRW000980,42,50294,Business Owner,Tier 3,Graduate,1,63,54
+BRW000981,42,16691,Freelancer,Tier 2,Post-Graduate,2,42,8
+BRW000982,39,15000,Self-Employed,Tier 1,Graduate,0,9,45
+BRW000983,25,21996,Salaried,Tier 1,Post-Graduate,3,6,57
+BRW000984,34,72396,Business Owner,Tier 1,Graduate,0,7,15
+BRW000985,34,77846,Salaried,Tier 1,Undergraduate,2,16,6
+BRW000986,23,54746,Salaried,Tier 2,Undergraduate,1,32,3
+BRW000987,50,64865,Salaried,Tier 2,Graduate,0,16,21
+BRW000988,43,54882,Salaried,Tier 2,Graduate,1,1,15
+BRW000989,32,21737,Salaried,Tier 2,Graduate,3,30,29
+BRW000990,35,51304,Salaried,Tier 2,Undergraduate,1,39,7
+BRW000991,37,68894,Self-Employed,Tier 1,Post-Graduate,0,8,70
+BRW000992,18,66398,Salaried,Tier 1,Post-Graduate,3,26,10
+BRW000993,32,94007,Salaried,Tier 1,Graduate,0,13,9
+BRW000994,28,64000,Business Owner,Tier 2,Post-Graduate,0,52,23
+BRW000995,24,48105,Salaried,Tier 1,Undergraduate,2,44,24
+BRW000996,32,85487,Salaried,Tier 1,Undergraduate,1,17,8
+BRW000997,52,35553,Business Owner,Tier 2,Post-Graduate,1,28,11
+BRW000998,41,17934,Salaried,Tier 3,Graduate,1,51,6
+BRW000999,29,31874,Salaried,Tier 1,Graduate,1,16,45
+BRW001000,40,20011,Self-Employed,Tier 2,Graduate,3,9,52
